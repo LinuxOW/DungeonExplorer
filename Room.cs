@@ -35,4 +35,5 @@ namespace DungeonExplorer
             Debug.Assert(RoomItem != null, "RemoveItem called, but no item exists in the room right now.");
             RoomItem = null;
         }
-    }  
+    } 
+}
